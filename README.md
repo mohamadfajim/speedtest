@@ -24,8 +24,9 @@ chmod +x speedtest
 ````
 ./speedtest --server-id=55462
 ````
-
-
+````
+./speedtest --server-id=53619
+````
 روش دوم
 
 ````
