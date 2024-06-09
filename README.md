@@ -27,6 +27,14 @@ chmod +x speedtest
 ````
 ./speedtest --server-id=53619
 ````
+
+لیست سرور ها: 
+
+````
+https://gist.github.com/ofou/654efe67e173a6bff5c64ba26c09d058
+````
+
+
 روش دوم
 
 ````
